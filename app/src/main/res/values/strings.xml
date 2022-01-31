@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitFlow</string>
+    <string name="app_for_learning_git_flow">App for learning Git Flow</string>
 </resources>
