@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">GitFlow</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="main_fragment_n_also_for_learning_git_flow">Main Fragment\n Also for learning Git Flow</string>
 </resources>
