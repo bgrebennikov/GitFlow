@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">GitFlow</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_fragment_n_also_for_learning_git_flow">Main Fragment\n Also for learning Git Flow</string>
     <string name="app_for_learning_git_flow">App for learning Git Flow</string>
 </resources>
